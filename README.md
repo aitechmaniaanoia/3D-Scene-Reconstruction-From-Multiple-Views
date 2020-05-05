@@ -1,10 +1,10 @@
-# CMPT 742 - Final Project
+# 3D Scene Reconstruction From Multiple Views
 
 ## Group Members:
-* Chenhao Wang 301409375 (cwa217)  
-* Luciano Oliveira 301393900 (loliveir)  
-* Oleksandr Volkanov 301308828 (avolkanov)  
-* Sara Pilehroudi 301321656 (spilehro)
+* Chenhao Wang (cwa217@sfu.ca)  
+* Luciano Oliveira (loliveir@sfu.ca)  
+* Oleksandr Volkanov (avolkanov@sfu.ca)  
+* Sara Pilehroudi (spilehro@sfu.ca)
 
 ## Usage
 Run the main.m script in Matlab.
